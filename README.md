@@ -1,2 +1,2 @@
-# Exerc-javascript-rocketseat
-Resolução dos exercícios para aprender javaScript da Rocketseat 
+# Exercicios de JavaScript da Rocketseat
+Resolução dos exercícios para aprender JavaScript da Rocketseat. 
